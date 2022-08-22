@@ -1,0 +1,9 @@
+@media only screen {
+   #welcome-section{
+    height: 1.0;
+   }
+}
+#navbar {
+    position: fixed;
+    top: 0;
+}
